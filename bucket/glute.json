@@ -4,15 +4,15 @@
     "Source of truth: git@studio.wevr.com:wevr/tech/glute.git, mirrored to github.com/MarcelInTO/glute.",
     "Hand edits here are overwritten by the next release."
   ],
-  "version": "0.3.2",
+  "version": "0.3.3",
   "description": "Terminal dashboard for GitLab CI/CD pipeline and job statistics",
   "homepage": "https://github.com/MarcelInTO/glute",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/MarcelInTO/glute/releases/download/v0.3.2/glute-0.3.2-windows-amd64.zip",
-      "hash": "dbcbdc983a09e03671a8ae4bb8bec360ce5070b7830da068db6a1c3ee948f6c9",
-      "extract_dir": "glute-0.3.2-windows-amd64"
+      "url": "https://github.com/MarcelInTO/glute/releases/download/v0.3.3/glute-0.3.3-windows-amd64.zip",
+      "hash": "60ab806db5fc536a365dde15d2fa1f2e5325f6d6b92490c20986c9a163a51604",
+      "extract_dir": "glute-0.3.3-windows-amd64"
     }
   },
   "bin": "glute.exe",
